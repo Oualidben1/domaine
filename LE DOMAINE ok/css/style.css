@@ -1,0 +1,94 @@
+ 
+.header-bg {
+    background-image: url("../image/Rock-731140_1920.jpg");
+    background-repeat: no-repeat;
+ }
+.main-menu{
+    padding-top: 16vw;
+    text-align: center;
+}
+.main-menu ul {
+    list-style: none;
+    background: white;
+    padding-top: 10px;
+}
+.main-menu ul li {
+	display: inline;
+}
+.main-menu ul li a {
+    display: inline-block;
+    font-size: 15.8px;
+    color: black;
+    color: #6b6b6b;
+    margin-left: 35px;
+    font-weight: 500;
+    padding: 10px 5px;
+    font-family: "Fanwood Text",serif;
+} 
+h1
+    {
+        text-align: center;
+        color: white;
+        text-shadow: 1px 5px 5px #583013;
+        font-family: "Quattrocento",serif;
+        font-weight: 700;
+        font-style: normal;
+        text-rendering: optimizeLegibility;
+        padding-top: 247px;
+        font-size: 3.5vw;
+}
+h2{
+    font-size: 1rem;
+    text-shadow: 2px 2px #583013;
+    color: wheat;
+    text-align: center;
+}
+.entry-header {
+    margin-bottom: 1.5em;
+}
+h3{ 
+    text-shadow: 1px 2px 1px #583013;
+    font-size: 2.8rem;
+    font-family: auto;
+    /* margin-left: 1vw; */
+    padding-top: 6vw;
+    color: #666;
+    text-align: center;
+}
+h4{
+    padding-top: 141px;
+    font-size: 1vw; 
+    font-family: auto;
+    margin-left: -4vw;
+    padding-top: 6vw; 
+    font-weight: bold;
+}
+h5{
+    font-size: 1vw;
+    font-family: auto;
+    margin-left: 0vw;
+    padding-top: 4vw;
+    font-weight: bold;
+    padding-bottom: 2vw;
+}
+ 
+.row {
+    margin-right: -15px;
+    margin-left: 12vw;
+    width: 51vw;
+    padding-top: 5vw;
+  }
+  .footer-wrap {
+    background-color: #303030;
+    margin-top: 3em;
+    height: 4vw;
+    padding-top: 1vw;
+    text-align: end;
+    padding-right: 2vw;
+}
+a {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
