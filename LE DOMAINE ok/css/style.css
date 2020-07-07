@@ -2,6 +2,9 @@
 .header-bg {
     background-image: url("../image/Rock-731140_1920.jpg");
     background-repeat: no-repeat;
+    width: 99.46vw;
+    margin-left: -0.5vw;
+    margin-top: -0.5vw;
  }
 .main-menu{
     padding-top: 16vw;
@@ -24,6 +27,7 @@
     font-weight: 500;
     padding: 10px 5px;
     font-family: "Fanwood Text",serif;
+    text-decoration: unset;
 } 
 h1
     {
@@ -47,29 +51,16 @@ h2{
     margin-bottom: 1.5em;
 }
 h3{ 
-    text-shadow: 1px 2px 1px #583013;
-    font-size: 2.8rem;
-    font-family: auto;
-    /* margin-left: 1vw; */
-    padding-top: 6vw;
-    color: #666;
+    text-shadow: 2px 1px 2px #583013;
+    font-size: 2.4rem;
+    margin-left: 1vw;
+    color: #635b5b;
     text-align: center;
-}
-h4{
-    padding-top: 141px;
-    font-size: 1vw; 
     font-family: auto;
-    margin-left: -4vw;
-    padding-top: 6vw; 
+    padding-top: 10px;
+    margin-bottom: 30px;
+    margin-top: 30px;
     font-weight: bold;
-}
-h5{
-    font-size: 1vw;
-    font-family: auto;
-    margin-left: 0vw;
-    padding-top: 4vw;
-    font-weight: bold;
-    padding-bottom: 2vw;
 }
  
 .row {

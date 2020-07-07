@@ -55,12 +55,10 @@ h2{
 .entry-header {
     margin-bottom: 1.5em;
 }
-h3{ 
-    color: white;
+h3{      
     text-shadow: 2px 1px 2px #583013;
-    font-size: 2.4rem;
-    font-family: auto;
-    margin-left: 1vw;
+    font-size: 2.4rem;    
+    margin-left: 1vw;    
     color: #666;
     text-align: center;
     font-family: auto;
